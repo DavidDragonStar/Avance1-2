@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DistanceBetweenPoints : MonoBehaviour {
+public class DistanceBetweenPoints : MonoBehaviour { 
 	Vector3  r0 = new Vector3(0, 0, 0);
     Vector3  r1 = new Vector3(0, 0, 0);
     Vector3  r2 = new Vector3(0, 0, 0);
